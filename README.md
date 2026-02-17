@@ -6,16 +6,6 @@
     An immersive, high-performance portfolio platform for digital agencies.
   </p>
 
-  <p>
-    <a href="#features">Features</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#usage">Usage</a> •
-    <a href="#tech-stack">Tech Stack</a> •
-    <a href="#contributing">Contributing</a> •
-    <a href="#license">License</a>
-  </p>
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.2-purple)
-
 </div>
 
 ---
