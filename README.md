@@ -1,6 +1,5 @@
 
 <div align="center">
-  <img src="./images/logo-placeholder.png" alt="Clarity Logo" width="100">
   <h1>Clarity — Digital Experiences that Drive Growth 🚀</h1>
   
   <p>
@@ -15,10 +14,6 @@
     <a href="#contributing">Contributing</a> •
     <a href="#license">License</a>
   </p>
-
-  ![GitHub stars](https://img.shields.io/github/stars/yourusername/clarity?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/yourusername/clarity?style=social)
-  ![License](https://img.shields.io/github/license/yourusername/clarity)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.2-purple)
 
 </div>
